@@ -2,9 +2,8 @@
 
 version       = "0.1.0"
 author        = "Marius Stanca"
-description   = "no"
+description   = "Speeding Up Python with Nim"
 license       = "MIT"
-srcDir        = "src"
 
 
 # Dependencies
