@@ -1,6 +1,6 @@
 # py-nim
 
-[![CI](https://github.com/wmariuss/py-nim/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/wmariuss/py-nim/actions/workflows/ci.yml)
+[![CI](https://github.com/wmariuss/py-nim/actions/workflows/ci.yml/badge.svg)](https://github.com/wmariuss/py-nim/actions/workflows/ci.yml)
 [![Nim](https://img.shields.io/badge/nim-2.0%2B-FFE953)](https://nim-lang.org/)
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776AB)](https://www.python.org/)
 [![License](https://img.shields.io/github/license/wmariuss/py-nim)](LICENSE)
