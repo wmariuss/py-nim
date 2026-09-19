@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.1.0"
+version       = "0.2.0"
 author        = "Marius Stanca"
 description   = "Speeding Up Python with Nim"
 license       = "MIT"
@@ -8,5 +8,5 @@ license       = "MIT"
 
 # Dependencies
 
-requires "nim >= 0.19.4"
-requires "nimpy >= 0.1.0"
+requires "nim >= 2.0.0"
+requires "nimpy >= 0.2.0"
